@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <description>Hey @everyone!
+Here you can post your own CIA&apos;s (CTR Importable Archive&apos;s) to share with other people!
+Just paste the link of the file here!
+Recommended site&apos;s to post them to are [Google Drive](https://www.drive.google.com), [Onedrive](https://www.onedrive.live.com) and [Mediafire](https://www.mediafire.com).
+You can also search for CIA ROM&apos;s here using the following command:
+
+``!cia (CIA Game name including spaces, quotes and numbers)``
+
+For example:
+
+``!cia Luigi&apos;s Mansion 2``
+
+Output:
+
+`` This is what I found: 
+https://www.cia-3ds.com/2019/09/luigis-mansion-2.html``
+
+QueryBot will search on [Cia-3DS.com](https://www.cia-3ds.com/) for the CIA game.
+Enjoy it!</description>
+  <color>623871</color>
+  <footer>
+    <icon_url>https://i.imgur.com/GTHnXxO.png</icon_url>
+    <text>BUT DON&apos;T SHARE INAPPROPRIATE ROM&apos;S!</text>
+  </footer>
+</root>
